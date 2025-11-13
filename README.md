@@ -2,7 +2,8 @@
 
 A simple React-based application that lets you track your income and expenses. Add transactions, view your balance, and see a breakdown of your spending.
 
-![App Screenshot](screenshot.png) <!-- Optional: If you want to add a screenshot later -->
+![App Screenshot](<img width="605" height="839" alt="image" src="https://github.com/user-attachments/assets/cf2bbff1-668c-4361-a12c-6ceb92574e5e" />
+) <!-- Optional: If you want to add a screenshot later -->
 
 ---
 

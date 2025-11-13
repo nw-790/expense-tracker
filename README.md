@@ -2,10 +2,10 @@
 
 A simple React-based application that lets you track your income and expenses. Add transactions, view your balance, and see a breakdown of your spending.
 
-![App Screenshot](<img width="605" height="839" alt="expensetrackerdemo" src="https://github.com/user-attachments/assets/33ba9c2e-0a3f-4a99-9bc8-7f0ce06c4eeb" />
-) <!-- Optional: If you want to add a screenshot later -->
+![App Screenshot](https://github.com/user-attachments/assets/b2b086d5-5e56-41f4-b0e1-1078633df5a) <!-- Optional: If you want to add a screenshot later -->
 
 ---
+
 
 ## 🚀 Features
 

@@ -1,16 +1,71 @@
-# React + Vite
+# 💸 Expense Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React-based application that lets you track your income and expenses. Add transactions, view your balance, and see a breakdown of your spending.
 
-Currently, two official plugins are available:
+![App Screenshot](screenshot.png) <!-- Optional: If you want to add a screenshot later -->
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Add income or expense transactions
+- View total balance, income, and expense
+- Delete individual transactions
+- Saves data to your browser (via localStorage)
+- Clean, minimalist UI with responsive design
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Built With
+
+- React (via Vite)
+- JavaScript (ES6+)
+- CSS (custom styling)
+
+---
+
+## 📦 Installation
+
+Clone the repo:
+
+
+Or, even better (since it's all bash), just combine it into one block:
+
+```markdown
+```bash
+git clone https://github.com/your-username/expense-tracker.git
+cd expense-tracker
+npm install
+npm run dev
+
+```
+## 📂 Folder Structure (Simplified)
+
+src/
+│
+├── components/
+│   ├── AddTransaction.jsx
+│   ├── Balance.jsx
+│   ├── Header.jsx
+│   ├── IncomeExpense.jsx
+│   └── TransactionList.jsx
+│
+├── styles/
+│   └── global.css
+│
+├── App.jsx
+└── main.jsx
+
+## 🧠 Concepts Practiced
+
+- React state management with useState
+- Event handling and controlled inputs
+- Conditional rendering
+- Working with arrays: .map(), .filter(), .reduce()
+- Styling components and layout
+- Local storage with useEffect
+
+## Author
+
+- Kem W
+

@@ -30,7 +30,6 @@ A simple React-based application that lets you track your income and expenses. A
 Clone the repo:
 
 
-Or, even better (since it's all bash), just combine it into one block:
 
 ```markdown
 ```bash

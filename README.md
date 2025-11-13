@@ -39,22 +39,7 @@ npm install
 npm run dev
 
 ```
-## 📂 Folder Structure (Simplified)
 
-src/
-│
-├── components/
-│   ├── AddTransaction.jsx
-│   ├── Balance.jsx
-│   ├── Header.jsx
-│   ├── IncomeExpense.jsx
-│   └── TransactionList.jsx
-│
-├── styles/
-│   └── global.css
-│
-├── App.jsx
-└── main.jsx
 
 ## 🧠 Concepts Practiced
 
